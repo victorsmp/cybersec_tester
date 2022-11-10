@@ -1,0 +1,44 @@
+{
+	"lista": [
+		{
+			"a": "Un suceso implica una posible violación de la política de seguridad y un evento es un cambio de estado significativo para la cuestión de un elemento de configuración o servicio de TI.",
+			"b": "Un suceso se trata de cualquier tipo de cambio o alteración del software/hardware, mientras que un evento puede acarrear un grave agujero de seguridad en un sistema informático.",
+			"c": "No tienen diferencia, realmente son nombres que se les atribuyen a acciones que pueden ocurrir en una instalación tecnológica.",
+			"correcta": "a",
+			"d": "Ninguna de las respuestas anteriores es correcta.",
+			"pregunta": "¿Cuál es la diferencia entre un Suceso y un Evento de Ciberseguridad?"
+		},
+		{
+			"a": "Siempre implica que hay un atacante cuyo objetivo es sustraer información, utilizar un sistema de forma malintencionada y/o inutilizar un sistema informático.",
+			"b": "No siempre son causados por atacantes, pueden estar asociados a accidentes o errores no intencionados.",
+			"c": "Siempre implica el robo de información y/o la inutilización de un sistema informático.",
+			"correcta": "b",
+			"d": "Implica el incumplimiento de alguna ley del código penal.",
+			"pregunta": "Un incidente de Ciberseguridad…"
+		},
+		{
+			"a": "Las investigaciones criminales tienen un lugar dentro del ámbito del delito. Las investigaciones corporativas persiguen la violación de la política corporativa.",
+			"b": "Las investigaciones criminales se basan en delitos fuera de la empresa. Las investigaciones corporativas siempre se limitan a la corporación sobre la que se aplican.",
+			"c": "Es una institución nacional que permite la distribución ",
+			"correcta": "d",
+			"d": "Es el encargado de reforzar las relaciones de coordinación, colaboración y cooperación entre las distintas Administraciones Públicas con competencias en materia de ciberseguridad, así como en los entre los sectores públicos y privados.",
+			"pregunta": "El Consejo Nacional de Ciberseguridad…"
+		},
+		{
+			"a": "Consiste en permitir que un dispositivo comparta recursos al conectarse a una red, las siglas hacen referencia a “Electornic Discovery”.",
+			"b": "Es el proceso mediante el cual un dispositivo se comunica con los dispositivos cercanos compatibles con el protocolo E-Discovery para el intercambio de información, el cual está considerado como sistema vulnerable.",
+			"c": "Es el proceso que implica la recogida, preparación, revisión y presentación de documentos electrónicos procedentes de soportes de almacenamiento en litigios civiles.",
+			"correcta": "c",
+			"d": "A y B son correctas.",
+			"pregunta": "¿Qué es E-Discovery?"
+		},
+		{
+			"a": "Una cadena de custodia es un registro documental de quién estaba en posesión y control de una determinada evidencia de cada momento, hasta que dicha evidencia es presentada ante un tribunal.",
+			"b": "La cadena de custodia contribuye a garantizar la autenticidad de los registros generados por el ordenador",
+			"c": "En un formulario de cadena de custodia deben constar, el número de caso, fecha/hora de transferencia, usuario de entrega y recepción, motivo de la transferencia de la evidencia.",
+			"correcta": "d",
+			"d": "Todas las anteriores son correctas.",
+			"pregunta": "Una cadena de custodia…"
+		}
+	]
+}
